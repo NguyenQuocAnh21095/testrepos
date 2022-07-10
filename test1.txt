@@ -1,2 +1,2 @@
-git test file test1
-test conflict
+Add new feature 1 updated
+
